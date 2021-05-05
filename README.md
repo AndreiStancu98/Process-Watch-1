@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DraganicaCiprian/Process-Watch">
-    <h1> Process Watch </h1>
+    <h1 align="center"> Process Watch </h1>
   </a>
 
   <p align="center">
